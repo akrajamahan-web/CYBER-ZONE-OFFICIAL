@@ -11,7 +11,9 @@
 ---
 
 ### 📞 Customer Support & Contact
-* **Support Channels:** Official Telegram & Community Channels
+For any queries, assistance, or support regarding your digital community pass, you can reach out to us directly:
+* **Support Email:** akrajamahan@gmail.com
+* **Telegram Support:** @A2Z_BRO
 * **Business Hours:** Monday to Saturday (10:00 AM – 7:00 PM IST)
 
 ---
@@ -24,4 +26,4 @@ At **Cyber Zone Official & Utilities**, we respect your privacy. We collect basi
 ### 📜 Terms & Conditions
 * Access is granted upon successful activation of the monthly pass (₹99/Month).
 * All subscriptions follow standard digital community guidelines.
-* 
+  *
